@@ -58,7 +58,7 @@ A backend API project designed for managing e-commerce functionality.
 - PostgreSQL
 - Authentication
 
-🔗 Repository: https://github.com/anand-gec/Ecommerce-API
+🔗 Repository: https://github.com/anand23sah/Ecommerce-API
 
 ---
 
@@ -92,27 +92,27 @@ Backend applications built using Python and FastAPI.
 
 ## 📊 GitHub Statistics
 
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand-gec&show_icons=true&theme=tokyonight)
+![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand23sah&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-gec&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anand23sah&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anand-gec&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=anand23sah&theme=tokyonight)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Anand's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anand-gec&theme=tokyo-night)
+![Anand's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anand23sah&theme=tokyo-night)
 
 ---
 
 ## 🤝 Connect With Me
 
-💼 GitHub: https://github.com/anand-gec
+💼 GitHub: https://github.com/anand23sah
 
 ---
 
